@@ -27,4 +27,11 @@
   
   
   
-* Teste do git, depois descubro como apagar isso :)
+* Nota do git:
+  
+  
+  
+  
+  
+  
+  
