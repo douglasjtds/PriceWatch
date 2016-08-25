@@ -12,6 +12,7 @@
   - http://limetext.org/
   - https://www.geany.org/Download/Releases
   - http://bluefish.openoffice.nl/download.html
+  - gedit
   
 * Tarefa:
   - Clonar o repositório;
@@ -22,3 +23,15 @@
 * Teste:
   - Rode o arquivo de teste para ver um resultado básico da estrutura de dados (ainda incompleta)
   `python scraper_test.py`
+  
+  
+  
+  
+* Nota do git:
+  
+  
+  
+  
+  
+  
+  
